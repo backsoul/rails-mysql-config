@@ -4,8 +4,7 @@
 #
 # Install the MySQL driver:
 #   gem install mysql2
-#
-
+```
 development:
   adapter: mysql2
   encoding: utf8
@@ -34,4 +33,8 @@ production:
   pool: 5
   username: root
   password: production
+  
   host: localhost
+  
+```
+
