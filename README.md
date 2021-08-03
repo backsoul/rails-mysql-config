@@ -33,5 +33,5 @@ production:
   database: GoSlow_production
   pool: 5
   username: root
-  password: [MyPassword]
+  password: production
   host: localhost
